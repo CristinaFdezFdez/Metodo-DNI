@@ -1,0 +1,72 @@
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\graphApp.exe
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\graphApp.deps.json
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\graphApp.runtimeconfig.json
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\graphApp.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\graphApp.pdb
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.Graph.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.Graph.Auth.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.Graph.Core.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Adal.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\graphApp.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\graphApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\graphApp.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\graphApp.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\graphApp.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\graphApp.csproj.Up2Date
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\graphApp.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\refint\graphApp.dll
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\graphApp.pdb
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\graphApp.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documentos\Azure\console\obj\Debug\net8.0\ref\graphApp.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\graphApp.exe
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\graphApp.deps.json
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\graphApp.runtimeconfig.json
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\graphApp.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\graphApp.pdb
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.Graph.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.Graph.Auth.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.Graph.Core.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Adal.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.csproj.Up2Date
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\refint\graphApp.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.pdb
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\ref\graphApp.dll
