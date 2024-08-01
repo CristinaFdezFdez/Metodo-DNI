@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("graphApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+464dad510a1461dc16c87198210d785ab99af0c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("graphApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("graphApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

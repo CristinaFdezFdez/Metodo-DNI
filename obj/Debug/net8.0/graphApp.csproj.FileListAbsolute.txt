@@ -70,3 +70,4 @@ C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0
 C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.pdb
 C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.genruntimeconfig.cache
 C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\ref\graphApp.dll
+C:\Users\crist\OneDrive\Documentos\Mis documentos\C#\C#\console\obj\Debug\net8.0\graphApp.sourcelink.json
